@@ -4,7 +4,7 @@ Resposta:
  → O VCS é um ágil sistema de controle de versões é um software utilizado que tem como função principal acompanhar cada uma das alterações feitas/catalogadas em um arquivo ou conjunto de arquivos ao longo do tempo, permitindo assim que o VCS possa rastrear, reverter e comparar as versões anteriores com as versões mais atuais. É usado para gerenciar o código de software, mas pode ser aplicado a qualquer tipo de arquivo.
 Também, faz com que conforme o desenvolvedor for editando cada código.
 O sistema de controle de versão tira um instantâneo dos arquivos. Em suma, o VCS sempre salva esses "setores" e versões antigas e editadas dos códigos de forma permanente, para que assim ele possa ser recuperado, revisado, documentado em momentos necessários.
-—------------------------------------------------------------------------------------
+—------------------------------------------------------------------------------------------------------------
 — Cite 5 vantagens em utilizar um VCS:
 Resposta:
 → Primeira Vantagem:
@@ -17,7 +17,7 @@ Resposta:
 . Solução de problemas que possam vir a acontecer entre o desenvolvimento do código.
 → Quinta Vantagem:
 . Rastreamento de modificações. Já que o VCS pode rastrear facilmente as modificações feitas em todo o projeto/código.
-—------------------------------------------------------------------------------------
+—------------------------------------------------------------------------------------------------------------
 — Cite 3 vantagens do VCS:
 Resposta:
 → Primeira Vantagem:
@@ -26,10 +26,10 @@ Resposta:
 . SubVersion
 → Terceira Vantagem:
 . Mercurial
-—------------------------------------------------------------------------------------
+—------------------------------------------------------------------------------------------------------------
 Status de ATV: 100% concluído
 
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 # ◇Desafio 02:◇
 # ◇Defina o que é Programação Orientada a Objetos◇;
 Resposta:
@@ -85,3 +85,4 @@ POO permite que os desenvolvedores modelem objetos e entidades do mundo real em 
  ### ◇Quinta Vantagem◇
  ---> Facilidade de Manutenção:
  A modularidade e o encapsulamento dos dados e métodos em objetos facilitam a identificação e correção de problemas, pois as modificações em um objeto não afetam diretamente outros objetos. 
+ -------------------------------------------------------------------------------------------------------------
