@@ -1,3 +1,4 @@
+
 # Desafio 01: 
 # 📃–Definir o que é um *Sistema de Controle de Versões (VCS)* (mínimo de 10 linhas).📝
 Resposta:
@@ -86,3 +87,5 @@ POO permite que os desenvolvedores modelem objetos e entidades do mundo real em 
  ---> Facilidade de Manutenção:
  A modularidade e o encapsulamento dos dados e métodos em objetos facilitam a identificação e correção de problemas, pois as modificações em um objeto não afetam diretamente outros objetos. 
  -------------------------------------------------------------------------------------------------------------
+=======
+... 
